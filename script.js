@@ -1,3 +1,5 @@
+// API Address Link
+// https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373
 let button = document.querySelector("button");
 let para = document.querySelector("p");
 let erros = document.querySelector(".error");
